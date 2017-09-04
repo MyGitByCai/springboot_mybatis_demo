@@ -32,7 +32,7 @@ public class loginController {
 		System.out.println(
 				"发热发个日公开热看过了" +
 						"" +
-						""
+						"热个人个人"
 		);
         return mod;
     }
