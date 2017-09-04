@@ -24,6 +24,7 @@ public class loginController {
 		User user = mapper.Select("1");
 		mod.addObject("user",user);
 		mod.setViewName("index");
+		System.out.println("eee");
 		System.out.println("ccc");
 		System.out.println("ooo");
 		System.out.println("dewdwefwaef");
