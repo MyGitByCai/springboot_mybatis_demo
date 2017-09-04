@@ -25,7 +25,10 @@ public class loginController {
 		mod.addObject("user",user);
 		mod.setViewName("index");
 		System.out.println("===========");
-		return mod;
+        System.out.println(
+                "wefwefwefwefwef"
+        );
+        return mod;
     }
 	
 	/**
